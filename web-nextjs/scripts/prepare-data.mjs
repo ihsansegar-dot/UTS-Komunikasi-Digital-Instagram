@@ -62,6 +62,14 @@ function topWords(rows) {
     .map(([word, count]) => ({ word, count }));
 }
 
+function lengthBucket(textLength) {
+  if (textLength < 20) return "0-19";
+  if (textLength < 40) return "20-39";
+  if (textLength < 80) return "40-79";
+  if (textLength < 120) return "80-119";
+  return "120+";
+}
+
 function buildAnalytics(rows) {
   const comments = rows.map((r) => ({
     comment_id: String(r.comment_id || ""),
@@ -75,15 +83,66 @@ function buildAnalytics(rows) {
 
   const sentimentMap = new Map();
   const postDateMap = new Map();
+  const contentMap = new Map();
+  const commentLengthMap = new Map();
   const users = new Set();
   let scoreSum = 0;
 
   for (const c of comments) {
+    const content = c.post_date || "Unknown";
+    const textLength = c.text.length;
+    const bucket = lengthBucket(textLength);
+
     sentimentMap.set(c.sentiment_label, (sentimentMap.get(c.sentiment_label) || 0) + 1);
     postDateMap.set(c.post_date, (postDateMap.get(c.post_date) || 0) + 1);
+    commentLengthMap.set(bucket, (commentLengthMap.get(bucket) || 0) + 1);
     users.add(c.username);
     scoreSum += c.sentiment_score;
+
+    if (!contentMap.has(content)) {
+      contentMap.set(content, {
+        total_comments: 0,
+        negative_comments: 0,
+        score_sum: 0,
+      });
+    }
+    const slot = contentMap.get(content);
+    slot.total_comments += 1;
+    slot.score_sum += c.sentiment_score;
+    if (c.sentiment_label === "negative") {
+      slot.negative_comments += 1;
+    }
   }
+
+  const commentsByContent = [...contentMap.entries()]
+    .map(([content, v]) => ({ content, count: v.total_comments }))
+    .sort((a, b) => b.count - a.count);
+
+  const negativeRiskContents = [...contentMap.entries()]
+    .map(([content, v]) => {
+      const negativeRatio = v.total_comments ? v.negative_comments / v.total_comments : 0;
+      const averageScore = v.total_comments ? v.score_sum / v.total_comments : 0;
+      return {
+        content,
+        total_comments: v.total_comments,
+        negative_comments: v.negative_comments,
+        negative_ratio: Number(negativeRatio.toFixed(4)),
+        average_score: Number(averageScore.toFixed(4)),
+        risk_score: Number((negativeRatio * Math.log1p(v.total_comments)).toFixed(4)),
+      };
+    })
+    .sort((a, b) =>
+      b.risk_score - a.risk_score ||
+      b.negative_ratio - a.negative_ratio ||
+      b.negative_comments - a.negative_comments
+    )
+    .slice(0, 15);
+
+  const bucketOrder = ["0-19", "20-39", "40-79", "80-119", "120+"];
+  const commentLengthDistribution = bucketOrder.map((bucket) => ({
+    bucket,
+    count: commentLengthMap.get(bucket) || 0,
+  }));
 
   return {
     summary: {
@@ -94,6 +153,9 @@ function buildAnalytics(rows) {
     },
     sentiment_breakdown: ["positive", "neutral", "negative"].map((key) => ({ name: key, value: sentimentMap.get(key) || 0 })),
     comments_by_post_date: [...postDateMap.entries()].map(([post_date, count]) => ({ post_date, count })),
+    comments_by_content: commentsByContent,
+    negative_risk_contents: negativeRiskContents,
+    comment_length_distribution: commentLengthDistribution,
     top_words: topWords(comments),
     latest_comments: comments.slice(0, 200),
   };

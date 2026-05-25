@@ -105,6 +105,236 @@
       "count": 130
     }
   ],
+  "comments_by_content": [
+    {
+      "content": "DAtVy14SFXE_Comments.csv",
+      "count": 505
+    },
+    {
+      "content": "DAyhFBZSAlE_Comments.csv",
+      "count": 283
+    },
+    {
+      "content": "DAxkwyfyAv2_Comments.csv",
+      "count": 247
+    },
+    {
+      "content": "DAn7gMAyFLY_Comments.csv",
+      "count": 211
+    },
+    {
+      "content": "DA0iQeRSKe6_Comments.csv",
+      "count": 178
+    },
+    {
+      "content": "DAw3_I2Sghn_Comments.csv",
+      "count": 165
+    },
+    {
+      "content": "DArxAkfy3t2_Comments.csv",
+      "count": 156
+    },
+    {
+      "content": "DAzauTGy_gC_Comments.csv",
+      "count": 130
+    },
+    {
+      "content": "DAuUqhSSkNY_Comments.csv",
+      "count": 129
+    },
+    {
+      "content": "DA0NJ36SedH_Comments.csv",
+      "count": 120
+    },
+    {
+      "content": "DAuOTpgyYm1_Comments.csv",
+      "count": 119
+    },
+    {
+      "content": "DAmkjlHyqMk_Comments.csv",
+      "count": 116
+    },
+    {
+      "content": "DArm0WLStDY_Comments.csv",
+      "count": 113
+    },
+    {
+      "content": "DAx8M3ZSsYC_Comments.csv",
+      "count": 96
+    },
+    {
+      "content": "DApwW-wyZNh_Comments.csv",
+      "count": 88
+    },
+    {
+      "content": "DAj5NrFya4j.csv",
+      "count": 87
+    },
+    {
+      "content": "DAsKA0eSrht_Comments.csv",
+      "count": 81
+    },
+    {
+      "content": "Unknown",
+      "count": 59
+    },
+    {
+      "content": "DAkaiBLSX2n.csv",
+      "count": 50
+    },
+    {
+      "content": "DAk3h1bSdHM.csv",
+      "count": 44
+    },
+    {
+      "content": "DApg2ksyRkd_Comments.csv",
+      "count": 44
+    }
+  ],
+  "negative_risk_contents": [
+    {
+      "content": "DAtVy14SFXE_Comments.csv",
+      "total_comments": 505,
+      "negative_comments": 88,
+      "negative_ratio": 0.1743,
+      "average_score": 0.4931,
+      "risk_score": 1.085
+    },
+    {
+      "content": "DAxkwyfyAv2_Comments.csv",
+      "total_comments": 247,
+      "negative_comments": 31,
+      "negative_ratio": 0.1255,
+      "average_score": 0.6842,
+      "risk_score": 0.692
+    },
+    {
+      "content": "DAn7gMAyFLY_Comments.csv",
+      "total_comments": 211,
+      "negative_comments": 15,
+      "negative_ratio": 0.0711,
+      "average_score": 1.1943,
+      "risk_score": 0.3808
+    },
+    {
+      "content": "DAk3h1bSdHM.csv",
+      "total_comments": 44,
+      "negative_comments": 3,
+      "negative_ratio": 0.0682,
+      "average_score": 1.3182,
+      "risk_score": 0.2595
+    },
+    {
+      "content": "DAyhFBZSAlE_Comments.csv",
+      "total_comments": 283,
+      "negative_comments": 11,
+      "negative_ratio": 0.0389,
+      "average_score": 2.265,
+      "risk_score": 0.2196
+    },
+    {
+      "content": "DAj5NrFya4j.csv",
+      "total_comments": 87,
+      "negative_comments": 4,
+      "negative_ratio": 0.046,
+      "average_score": 1.4828,
+      "risk_score": 0.2059
+    },
+    {
+      "content": "DApwW-wyZNh_Comments.csv",
+      "total_comments": 88,
+      "negative_comments": 4,
+      "negative_ratio": 0.0455,
+      "average_score": 1.8636,
+      "risk_score": 0.204
+    },
+    {
+      "content": "DAmkjlHyqMk_Comments.csv",
+      "total_comments": 116,
+      "negative_comments": 3,
+      "negative_ratio": 0.0259,
+      "average_score": 1.4397,
+      "risk_score": 0.1232
+    },
+    {
+      "content": "DA0iQeRSKe6_Comments.csv",
+      "total_comments": 178,
+      "negative_comments": 4,
+      "negative_ratio": 0.0225,
+      "average_score": 1.7809,
+      "risk_score": 0.1166
+    },
+    {
+      "content": "DAzauTGy_gC_Comments.csv",
+      "total_comments": 130,
+      "negative_comments": 3,
+      "negative_ratio": 0.0231,
+      "average_score": 1.9385,
+      "risk_score": 0.1125
+    },
+    {
+      "content": "DAw3_I2Sghn_Comments.csv",
+      "total_comments": 165,
+      "negative_comments": 3,
+      "negative_ratio": 0.0182,
+      "average_score": 1.8909,
+      "risk_score": 0.0929
+    },
+    {
+      "content": "DApg2ksyRkd_Comments.csv",
+      "total_comments": 44,
+      "negative_comments": 1,
+      "negative_ratio": 0.0227,
+      "average_score": 1.7273,
+      "risk_score": 0.0865
+    },
+    {
+      "content": "DA0NJ36SedH_Comments.csv",
+      "total_comments": 120,
+      "negative_comments": 2,
+      "negative_ratio": 0.0167,
+      "average_score": 1.5,
+      "risk_score": 0.0799
+    },
+    {
+      "content": "DAkaiBLSX2n.csv",
+      "total_comments": 50,
+      "negative_comments": 1,
+      "negative_ratio": 0.02,
+      "average_score": 0.94,
+      "risk_score": 0.0786
+    },
+    {
+      "content": "DAuUqhSSkNY_Comments.csv",
+      "total_comments": 129,
+      "negative_comments": 1,
+      "negative_ratio": 0.0078,
+      "average_score": 1.5194,
+      "risk_score": 0.0377
+    }
+  ],
+  "comment_length_distribution": [
+    {
+      "bucket": "0-19",
+      "count": 652
+    },
+    {
+      "bucket": "20-39",
+      "count": 852
+    },
+    {
+      "bucket": "40-79",
+      "count": 1009
+    },
+    {
+      "bucket": "80-119",
+      "count": 288
+    },
+    {
+      "bucket": "120+",
+      "count": 220
+    }
+  ],
   "top_words": [
     {
       "word": "pram",

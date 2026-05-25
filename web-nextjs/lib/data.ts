@@ -20,6 +20,16 @@ export type AnalyticsData = {
   };
   sentiment_breakdown: Array<{ name: string; value: number }>;
   comments_by_post_date: Array<{ post_date: string; count: number }>;
+  comments_by_content: Array<{ content: string; count: number }>;
+  negative_risk_contents: Array<{
+    content: string;
+    total_comments: number;
+    negative_comments: number;
+    negative_ratio: number;
+    average_score: number;
+    risk_score: number;
+  }>;
+  comment_length_distribution: Array<{ bucket: string; count: number }>;
   top_words: Array<{ word: string; count: number }>;
   latest_comments: CommentRow[];
 };

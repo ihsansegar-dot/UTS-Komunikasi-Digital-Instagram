@@ -1,61 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=IBM+Plex+Sans:wght@400;600;700&display=swap");
+
 :root {
-  --bg-1: #070b14;
-  --bg-2: #111827;
-  --card: #0f172a;
-  --muted: #9ca3af;
-  --text: #f3f4f6;
-  --accent: #d4af37;
-  --positive: #22c55e;
-  --neutral: #94a3b8;
-  --negative: #ef4444;
+  --bg-0: #010a05;
+  --bg-1: #02140a;
+  --bg-2: #04200f;
+  --card: rgba(5, 24, 14, 0.86);
+  --text: #d6ffe8;
+  --muted: #8bd8aa;
+  --matrix: #39ff88;
+  --matrix-soft: rgba(57, 255, 136, 0.18);
+  --negative: #ff4d6d;
 }
 
 * { box-sizing: border-box; }
+
 html, body {
   margin: 0;
   padding: 0;
-  background: radial-gradient(circle at 0% 0%, #1f2937 0%, #0b1220 35%, #070b14 100%);
   color: var(--text);
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
+  background:
+    radial-gradient(circle at 14% -10%, #0a401f 0%, transparent 35%),
+    radial-gradient(circle at 86% 0%, #072e16 0%, transparent 30%),
+    linear-gradient(180deg, var(--bg-1), var(--bg-0));
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: linear-gradient(to bottom, rgba(57, 255, 136, 0.05) 1px, transparent 1px);
+  background-size: 100% 4px;
+  pointer-events: none;
+  opacity: 0.36;
 }
 
 a { color: inherit; text-decoration: none; }
 
 .container {
-  width: min(1200px, 94vw);
+  width: min(1260px, 94vw);
   margin: 0 auto;
-  padding: 24px 0 48px;
+  padding: 26px 0 48px;
 }
 
 .hero {
-  background: linear-gradient(140deg, rgba(15,23,42,0.95), rgba(17,24,39,0.9));
-  border: 1px solid rgba(212,175,55,0.28);
-  border-radius: 16px;
-  padding: 20px;
-  box-shadow: 0 12px 34px rgba(0,0,0,0.28);
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(155deg, rgba(7, 33, 19, 0.95), rgba(2, 16, 9, 0.9));
+  border: 1px solid rgba(57, 255, 136, 0.28);
+  border-radius: 18px;
+  padding: 22px;
+  box-shadow: inset 0 0 24px rgba(57, 255, 136, 0.09), 0 14px 36px rgba(0, 0, 0, 0.45);
 }
 
-.hero h1 { margin: 0 0 8px; font-size: 1.8rem; }
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(105deg, transparent 0%, rgba(57, 255, 136, 0.12) 50%, transparent 100%);
+  transform: translateX(-100%);
+  animation: sweep 8s linear infinite;
+}
+
+.hero h1 {
+  margin: 0 0 8px;
+  font-family: "Share Tech Mono", monospace;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--matrix);
+  text-shadow: 0 0 8px rgba(57, 255, 136, 0.5);
+}
+
 .hero p { margin: 0; color: var(--muted); }
 
 .grid-4 {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
   margin-top: 16px;
 }
-
-.card {
-  background: linear-gradient(160deg, rgba(15,23,42,0.92), rgba(17,24,39,0.88));
-  border: 1px solid rgba(212,175,55,0.2);
-  border-radius: 14px;
-  padding: 14px;
-}
-
-.metric-label { color: var(--muted); font-size: 0.9rem; }
-.metric-value { margin-top: 6px; font-size: 1.5rem; font-weight: 700; }
-
-.section-title { margin: 24px 0 10px; font-size: 1.15rem; }
 
 .grid-2 {
   display: grid;
@@ -63,27 +86,93 @@ a { color: inherit; text-decoration: none; }
   gap: 14px;
 }
 
-.table-wrap { overflow: auto; max-height: 460px; }
+.card {
+  background: linear-gradient(150deg, rgba(4, 24, 13, 0.93), rgba(3, 18, 10, 0.84));
+  border: 1px solid rgba(57, 255, 136, 0.26);
+  border-radius: 14px;
+  padding: 14px;
+  box-shadow: inset 0 0 16px rgba(57, 255, 136, 0.05);
+}
+
+.metric-label {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.metric-value {
+  margin-top: 6px;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 1.58rem;
+  color: var(--matrix);
+}
+
+.section-title {
+  margin: 26px 0 10px;
+  font-family: "Share Tech Mono", monospace;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--matrix);
+}
+
+.card-title {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: var(--text);
+}
+
+.table-wrap { overflow: auto; max-height: 470px; }
 
 table {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.92rem;
 }
+
 th, td {
   padding: 10px;
-  border-bottom: 1px solid rgba(148,163,184,0.15);
+  border-bottom: 1px solid rgba(57, 255, 136, 0.14);
   text-align: left;
   vertical-align: top;
 }
-th { color: var(--muted); font-weight: 600; }
 
-.badge { padding: 2px 8px; border-radius: 999px; font-size: 0.78rem; font-weight: 700; }
-.badge.positive { background: rgba(34,197,94,0.18); color: #86efac; }
-.badge.neutral { background: rgba(148,163,184,0.2); color: #cbd5e1; }
-.badge.negative { background: rgba(239,68,68,0.2); color: #fca5a5; }
+th {
+  color: var(--muted);
+  font-weight: 600;
+}
 
-@media (max-width: 960px) {
+.badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.badge.positive { background: rgba(57, 255, 136, 0.16); color: #a7ffcb; }
+.badge.neutral { background: rgba(146, 173, 158, 0.18); color: #d2e8dc; }
+.badge.negative { background: rgba(255, 77, 109, 0.18); color: #ffbac8; }
+
+.word-cloud {
+  min-height: 296px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 12px;
+  align-content: flex-start;
+  padding: 8px 4px;
+}
+
+.word-chip {
+  display: inline-block;
+  font-family: "Share Tech Mono", monospace;
+  line-height: 1.05;
+  text-shadow: 0 0 8px rgba(57, 255, 136, 0.4);
+}
+
+@keyframes sweep {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+@media (max-width: 980px) {
   .grid-4 { grid-template-columns: 1fr 1fr; }
   .grid-2 { grid-template-columns: 1fr; }
 }
