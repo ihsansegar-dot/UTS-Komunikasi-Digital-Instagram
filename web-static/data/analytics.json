@@ -1,16 +1,1992 @@
 {
   "summary": {
-    "total_comments": 0,
-    "average_score": 0,
-    "unique_users": 0,
-    "total_post_dates": 0
+    "total_comments": 3021,
+    "average_score": 1.4025157232704402,
+    "unique_users": 1418,
+    "total_post_dates": 21
   },
   "sentiment_breakdown": [
-    {"name": "positive", "value": 0},
-    {"name": "neutral", "value": 0},
-    {"name": "negative", "value": 0}
+    {
+      "name": "positive",
+      "value": 1835
+    },
+    {
+      "name": "neutral",
+      "value": 1012
+    },
+    {
+      "name": "negative",
+      "value": 174
+    }
   ],
-  "comments_by_post_date": [],
-  "top_words": [],
-  "latest_comments": []
+  "comments_by_post_date": [
+    {
+      "post_date": "DA0iQeRSKe6_Comments.csv",
+      "count": 178
+    },
+    {
+      "post_date": "DA0NJ36SedH_Comments.csv",
+      "count": 120
+    },
+    {
+      "post_date": "DAj5NrFya4j.csv",
+      "count": 87
+    },
+    {
+      "post_date": "DAk3h1bSdHM.csv",
+      "count": 44
+    },
+    {
+      "post_date": "DAkaiBLSX2n.csv",
+      "count": 50
+    },
+    {
+      "post_date": "DAmkjlHyqMk_Comments.csv",
+      "count": 116
+    },
+    {
+      "post_date": "Unknown",
+      "count": 59
+    },
+    {
+      "post_date": "DAn7gMAyFLY_Comments.csv",
+      "count": 211
+    },
+    {
+      "post_date": "DApg2ksyRkd_Comments.csv",
+      "count": 44
+    },
+    {
+      "post_date": "DApwW-wyZNh_Comments.csv",
+      "count": 88
+    },
+    {
+      "post_date": "DArm0WLStDY_Comments.csv",
+      "count": 113
+    },
+    {
+      "post_date": "DArxAkfy3t2_Comments.csv",
+      "count": 156
+    },
+    {
+      "post_date": "DAsKA0eSrht_Comments.csv",
+      "count": 81
+    },
+    {
+      "post_date": "DAtVy14SFXE_Comments.csv",
+      "count": 505
+    },
+    {
+      "post_date": "DAuOTpgyYm1_Comments.csv",
+      "count": 119
+    },
+    {
+      "post_date": "DAuUqhSSkNY_Comments.csv",
+      "count": 129
+    },
+    {
+      "post_date": "DAw3_I2Sghn_Comments.csv",
+      "count": 165
+    },
+    {
+      "post_date": "DAx8M3ZSsYC_Comments.csv",
+      "count": 96
+    },
+    {
+      "post_date": "DAxkwyfyAv2_Comments.csv",
+      "count": 247
+    },
+    {
+      "post_date": "DAyhFBZSAlE_Comments.csv",
+      "count": 283
+    },
+    {
+      "post_date": "DAzauTGy_gC_Comments.csv",
+      "count": 130
+    }
+  ],
+  "top_words": [
+    {
+      "word": "pram",
+      "count": 705
+    },
+    {
+      "word": "jakarta",
+      "count": 419
+    },
+    {
+      "word": "menyala",
+      "count": 299
+    },
+    {
+      "word": "menang",
+      "count": 244
+    },
+    {
+      "word": "bang",
+      "count": 230
+    },
+    {
+      "word": "semoga",
+      "count": 206
+    },
+    {
+      "word": "doel",
+      "count": 206
+    },
+    {
+      "word": "bisa",
+      "count": 187
+    },
+    {
+      "word": "banget",
+      "count": 169
+    },
+    {
+      "word": "mas",
+      "count": 169
+    },
+    {
+      "word": "sukses",
+      "count": 155
+    },
+    {
+      "word": "nih",
+      "count": 131
+    },
+    {
+      "word": "selalu",
+      "count": 123
+    },
+    {
+      "word": "semangat",
+      "count": 120
+    },
+    {
+      "word": "saya",
+      "count": 112
+    },
+    {
+      "word": "rano",
+      "count": 111
+    },
+    {
+      "word": "terus",
+      "count": 109
+    },
+    {
+      "word": "pemimpin",
+      "count": 106
+    },
+    {
+      "word": "timnas",
+      "count": 106
+    },
+    {
+      "word": "sama",
+      "count": 104
+    }
+  ],
+  "latest_comments": [
+    {
+      "comment_id": "17902563845964183",
+      "created_at": "1728342903",
+      "username": "pak_boyke",
+      "text": "Debat pertama Bapak Luar biasa. Bermodalkan sebagai ibaratnya konsultan kabinet presiden jadi tau luar dalam dengan data pasti. Bukti pengalaman adalah yang terbaik.",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17877395148164342",
+      "created_at": "1728343451",
+      "username": "aurellieeptr",
+      "text": "Menyala terus pak🔥,jgn lupa dukung 03❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18200477896289896",
+      "created_at": "1728345160",
+      "username": "harti030373",
+      "text": "😍❤️❤️❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18251812054281722",
+      "created_at": "1728345897",
+      "username": "lia.aymhrni",
+      "text": "tetap menjadi diri sendiri pak,menyala pakk😍🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18072119923607173",
+      "created_at": "1728346540",
+      "username": "rvlnchy0_",
+      "text": "kerenn sii inii menyala trus pakk🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18042699722025511",
+      "created_at": "1728346714",
+      "username": "kniaa_810",
+      "text": "🙌🙌🙌👌👌👌💪💪💪",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18287320861228216",
+      "created_at": "1728346909",
+      "username": "kampungpemulungpinangranti_ipi",
+      "text": "@kampungpemulungpinangranti_ipi",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17905192491025149",
+      "created_at": "1728347752",
+      "username": "liandalubis",
+      "text": "🔥🔥🔥 ini dia",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18108671836424565",
+      "created_at": "1728347889",
+      "username": "nuckypradiano",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18107146729384407",
+      "created_at": "1728348133",
+      "username": "jyzyz5",
+      "text": "Tulisan dokter nih ya pak pram",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18019407632291926",
+      "created_at": "1728348686",
+      "username": "putriragill_0",
+      "text": "Menyala orang hebat",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17883704802109493",
+      "created_at": "1728349595",
+      "username": "riana_0985",
+      "text": "🔥🔥🔥🤟🤟🤟",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18078544252530403",
+      "created_at": "1728350715",
+      "username": "citadviii",
+      "text": "kebiasaan yang baik jangan sampai hilang ya pak 😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18153361351323274",
+      "created_at": "1728351367",
+      "username": "mrsyiaa_",
+      "text": "gapapa pak itu namanya pak pramm tu orangnya memperhatiin bangett kata orang lain sampe sampe dicatat poin utamanya...keren pak pram 🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18027374723131277",
+      "created_at": "1728352693",
+      "username": "crab.808660_aisyah",
+      "text": "Sukses slalu ,semoga menang pak",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18107583673384418",
+      "created_at": "1728353435",
+      "username": "clarisanasywa",
+      "text": "bener bener nih calon pemimpin yang tau kebutuhan rakyat salut bangetg",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17942701355779803",
+      "created_at": "1728353455",
+      "username": "mrs.gracechristina.official",
+      "text": "@pramonoanungw kalau Mici Apa, pak?",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17942356403887942",
+      "created_at": "1728353566",
+      "username": "emmafarabex",
+      "text": "pak @pramonoanungw  setelah di bilang ANTI ISLAM..skrg  bapak dibilang ALA XI JINPING....(konotasi negative)pak..itu pak di AKUN PINTER POLITIK pak... YA ALLAH.....SURVEY MELENTING TERUS....JAHAT BANGET NYERANGNYA PAKKK😢😢😢😢😢😢",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17934143801926381",
+      "created_at": "1728353693",
+      "username": "emmafarabex",
+      "text": "@worodiya AKU KIRA IBU2 KOMPLEK DOANG DASTERAN..TAU NYA ISTRI R1 3 AJA DASTERAN😂😂😂 mici @pramonoanungw 😂😂😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18024545588185935",
+      "created_at": "1728354325",
+      "username": "diditfuso71",
+      "text": "Jidi hebat🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17992584071541271",
+      "created_at": "1728354917",
+      "username": "_gastiano",
+      "text": "manyalaa pak pramm🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18015775178622305",
+      "created_at": "1728356123",
+      "username": "salmaamizah_",
+      "text": "kaya akuu, apa2 dicatet ntah hal kecil pun",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18034709282191889",
+      "created_at": "1728356347",
+      "username": "anggaraeska",
+      "text": "Masuk ini pak, menjelaskan dengan tanpa tendensi .... keren pak, yang ikhlas yang akan menyala 👍👍",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18014019389338730",
+      "created_at": "1728359096",
+      "username": "marhaenjkt",
+      "text": "Alhamdulillah, senang lihat keluarga mas Pram yg  adem... #JAKartaMenyala #JAKartaAdalahKita",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18049881889754138",
+      "created_at": "1728360006",
+      "username": "jamescohensmithwindsor.uk",
+      "text": "Jadi ingin membiasakan mencatat nih",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18065191054653485",
+      "created_at": "1728361500",
+      "username": "milkadaniela6",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18461313055000892",
+      "created_at": "1728365657",
+      "username": "yohanes_yudhi",
+      "text": "Tetap semangat pak Pram.. 🔥🔥🔥👏👏😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 7,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17943221132896267",
+      "created_at": "1728371066",
+      "username": "riza_tuch",
+      "text": "Pakkkk..menang pak..",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18372267691105961",
+      "created_at": "1728372240",
+      "username": "hikmahikma85",
+      "text": "@pramonoanungw ❤️🔥❤️🔥❤️🔥❤️🔥 sama - sama Bapak.  Semoga kelak Bapak @pramonoanungw dan Bapak @si.rano menang Di Pilkada Jakarta dan bisa memimpin Jakarta Menjadi lebih baik lagi Aaaamiiin dan bisa ke Palembang untuk dalam rangka kerja beserta Gubernur Juga Walikota juga Bupati Terpilih di Kota Palembang nanti Aaaamiiin.  Salam hormat selalu dari Hikmah Zuraidah Di Palembang",
+      "sentiment_label": "positive",
+      "sentiment_score": 11,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18054199519872120",
+      "created_at": "1728374371",
+      "username": "zoryaa.a",
+      "text": "waduhh tulisannya ga bisa di baca😅",
+      "sentiment_label": "negative",
+      "sentiment_score": -1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17940628844874927",
+      "created_at": "1728386558",
+      "username": "chrisndk",
+      "text": "Mantap. Semangat trs pak. Doa kami Bpk sehat selalu, ayo  dukung  no 3",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18039578890914706",
+      "created_at": "1728387317",
+      "username": "radevagembul",
+      "text": "Sweet banget pak... Bisa jadi panutan nih",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18038298292957439",
+      "created_at": "1728387752",
+      "username": "aquino37586",
+      "text": "Wah mba Hani bener2 spt almh ibu Narto bingitz....sehat selalu nggih mba Hani dan keluarga 🙏",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18277842589169827",
+      "created_at": "1728389113",
+      "username": "mangokabagus",
+      "text": "Menyala Mas @pramonoanungw  Salam Dari Bali🔥🔥🤟💪🐂",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17979392837765847",
+      "created_at": "1728400032",
+      "username": "srimuntamah_",
+      "text": "Oret2an saya malah gak kebaca😄",
+      "sentiment_label": "negative",
+      "sentiment_score": -1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18061245472739095",
+      "created_at": "1728401709",
+      "username": "peteauberg",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18059191834813208",
+      "created_at": "1728401882",
+      "username": "sepedabalap2121",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18022098476408320",
+      "created_at": "1728402126",
+      "username": "ayasopia_veil",
+      "text": "Kayak PS suka nyatet sambil nyimak",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18184117813305583",
+      "created_at": "1728405619",
+      "username": "yovita_baskoro",
+      "text": "Mas Pram doa kami MM Angk 4, semoga sukses dalam Pilkada Jakarta, semangat ,maju terus, keren",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18044523772844550",
+      "created_at": "1728427554",
+      "username": "sasy_kris82",
+      "text": "Kalau MICI-- i depan ganti huruf o, saya tahu namanya MOCI, terus MICI-- huruf belakang di tambah huruf N ,Saya juga tahu MICIN, 😁😁😁 just kidding",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17853530982290714",
+      "created_at": "1728434214",
+      "username": "decisk",
+      "text": "@pramonoanungw oalaahhh baru ketahuan olehku. Sehat2 yaa Pak.",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17945375765855310",
+      "created_at": "1728443077",
+      "username": "pulangkebintara",
+      "text": "@emmafarabex RI 20 blio",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18119426842393102",
+      "created_at": "1728447911",
+      "username": "mrs.gracechristina.official",
+      "text": "@sasy_kris82  ah ini jg bener😂😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18037239988981336",
+      "created_at": "1728452963",
+      "username": "diansbudiman",
+      "text": "Aku dukung GD❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18023232488601392",
+      "created_at": "1728497521",
+      "username": "rmdimasarifin",
+      "text": "Pak calon gubenur DKi Om Pramono",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17992913489549176",
+      "created_at": "1728575770",
+      "username": "ondel98",
+      "text": "Kl sdh menang jgn mau diatur2 nenek , pasti terjun bebass lg",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17931398231942379",
+      "created_at": "1728581006",
+      "username": "aiyuu_puspita",
+      "text": "Petisi Brawijaya Full Support utk Mas Pram dan Bang Doel 🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18040019056899937",
+      "created_at": "1728655506",
+      "username": "nurlianiborusinaga",
+      "text": "Love banget keluarga pak Promono Anung. 😍🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18063057472739361",
+      "created_at": "1728970095",
+      "username": "omahdastereva",
+      "text": "Wahhh terima kasih ibu sudah menggunakan produk daster bordir kami. Cantik sekali 😍❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18035079161348854",
+      "created_at": "1730799323",
+      "username": "susanti1128",
+      "text": "pak KJP bjs jgn dpitong2 lagi y kek  PJ sekarang kasian",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18251931928258110",
+      "created_at": "1728307633",
+      "username": "pradita_sintia",
+      "text": "Tulisan dokter gak tuh 🫢,,smangat ya buk utk mensuport pak pram semoga menang,,",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17916619277901734",
+      "created_at": "1728307650",
+      "username": "ignatius_happy",
+      "text": "Saya warga kabupaten Kediri mendukung panjenengan pak @pramonoanungw dan mas Bup @dhitopramono 🤗👍👍👍",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18029389403104938",
+      "created_at": "1728307673",
+      "username": "rapaole",
+      "text": "Sehat sehat pak🙌🔥😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18059087359778508",
+      "created_at": "1728307952",
+      "username": "dedipujiono",
+      "text": "Semoga disemogakan ya pak. Sukses sll  salam 🤟",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17857150956225599",
+      "created_at": "1728307984",
+      "username": "animohanduk27",
+      "text": "👏👏👏🔥🔥🔥 transparancy 😍😍😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 9,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18067726753716816",
+      "created_at": "1728308013",
+      "username": "siapin21",
+      "text": "Keluarga yg selalu di impikan banyak orang❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18313862857088999",
+      "created_at": "1728308026",
+      "username": "tama.sec.la",
+      "text": "Angkat tangan aku pak kalo soal tulisan dokter🙂",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18116982289367547",
+      "created_at": "1728308140",
+      "username": "crmel.rea",
+      "text": "kebiasaan baik mah gpp dilanjutin",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18045608684000203",
+      "created_at": "1728308189",
+      "username": "danielptr23_",
+      "text": "Nah bener nih, kebiasaannya baik oke lah apalagi buat masa depan bersama juga nih",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18016002149627514",
+      "created_at": "1728308590",
+      "username": "vhivie92",
+      "text": "Ibuuu... ayu pisan😍😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17853801063293284",
+      "created_at": "1728308783",
+      "username": "elfiatih68",
+      "text": "Owalah",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17939433977907447",
+      "created_at": "1728308889",
+      "username": "kayisou",
+      "text": "lucu banget si pasangan ini, tetep harmonis❤️🙌",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18071548939582208",
+      "created_at": "1728309005",
+      "username": "irfa.nbgs",
+      "text": "Lucu bgt ini pasangan",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18057708529827002",
+      "created_at": "1728309195",
+      "username": "shafa123516",
+      "text": "Sehat² pak semanggat untuk menang 😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18080037913481610",
+      "created_at": "1728309208",
+      "username": "xynggy_anggy",
+      "text": "Lucu banget pak semoga sukses selalu🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18026165042159416",
+      "created_at": "1728309248",
+      "username": "rikochan04",
+      "text": "Jangan dimarahi Buk,mencatat itu hal yang baik😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17931564119937237",
+      "created_at": "1728309340",
+      "username": "moza_ris24",
+      "text": "Keren pak❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17989877822563760",
+      "created_at": "1728309448",
+      "username": "rini_113",
+      "text": "itu tulisan apa rumput goyang wkwkw sampai dimarahin istri pak pram pak pram",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18040963619118460",
+      "created_at": "1728309602",
+      "username": "cara_je",
+      "text": "🔥 keren",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18033756569253064",
+      "created_at": "1728310627",
+      "username": "untarisetyowati",
+      "text": "Iyaa seneng liat Pa Pram klu bicara dgn ibu ... natural ..",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18077953216554534",
+      "created_at": "1728310801",
+      "username": "annica_meh3",
+      "text": "Lucu banget pak Pram dimarahin😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17878117440086011",
+      "created_at": "1728310877",
+      "username": "pramonoanungw",
+      "text": "@lukmanhsaifuddin 🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17979772550751652",
+      "created_at": "1728310934",
+      "username": "pramonoanungw",
+      "text": "Terima kasih 🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17880125040119687",
+      "created_at": "1728311095",
+      "username": "nazel.yusnia",
+      "text": "Duhhh kena marah istri tuuu 😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17982143549742283",
+      "created_at": "1728311479",
+      "username": "ameldaptr9",
+      "text": "Lucu banget deh😆",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18018867971292237",
+      "created_at": "1728311661",
+      "username": "dimasalya6",
+      "text": "Orang pintar tetap merendah.... bismillah pak pram❤️❤️❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17943445523862553",
+      "created_at": "1728311843",
+      "username": "d_uain",
+      "text": "Belum jadi pemimpin aja pengertian sama rakyat",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17853979131290631",
+      "created_at": "1728312007",
+      "username": "joanarcana",
+      "text": "Ngomel bagian dari rasa sayang🔥... gaskennnnn",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17908857420012486",
+      "created_at": "1728312208",
+      "username": "faaqwertyy",
+      "text": "wkwkwk pak pram gemes banget dimarahin istrinya😂❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18049855165933255",
+      "created_at": "1728312351",
+      "username": "ziaa1116",
+      "text": "Tulisannya kya tulisan dokter ga tuh😂😍",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18039472280151410",
+      "created_at": "1728312836",
+      "username": "angga_dwipramono",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18008544458644397",
+      "created_at": "1728313674",
+      "username": "ani_ssaa02",
+      "text": "Keren banget 👏🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17880244029141169",
+      "created_at": "1728314205",
+      "username": "begajulanfc40",
+      "text": "CARMUK KE MAJELIS. TALIM😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17987047766720728",
+      "created_at": "1728314400",
+      "username": "ch444.444",
+      "text": "emg cocok sih kek gini klo jadi pemimpin🔥👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18314598967090183",
+      "created_at": "1728314516",
+      "username": "secccctss_",
+      "text": "Kebiasaan hal baik juga akann berdampakk ke masa depan yang lebih baik gasspol pakk lanjutkann hal”baikkk👏❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18153333553325618",
+      "created_at": "1728314842",
+      "username": "ma127___",
+      "text": "jangan dihilangkan ya pak kebiasaan baiknya",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17912341694921215",
+      "created_at": "1728315838",
+      "username": "inisiallna19",
+      "text": "Wehhh genahh tulisann dokter iki pak pramm garaii lucuu puoll😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18354230362138907",
+      "created_at": "1728316219",
+      "username": "hadiwiryono2020",
+      "text": "Ko catetan kasbon di warung mas😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17880122835151858",
+      "created_at": "1728317168",
+      "username": "everyy1aa",
+      "text": "Lebih baik seperti ituu, sdkit² di catett contoh pemimpin yg mau menerima masukan dan keluh kesah rakyatnya🤭😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18054223609862194",
+      "created_at": "1728317571",
+      "username": "nafreelancebisnis",
+      "text": "Kebiasaann baikk ojo pernahh di tinggalkee ya pakk😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18091750420470325",
+      "created_at": "1728317778",
+      "username": "rintaulinnikmah",
+      "text": "Gemess, sehatsehat bapak ibu sekeluarga🥰",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17862239610246784",
+      "created_at": "1728321029",
+      "username": "jovia.nm",
+      "text": "Selalu jadi diri sendiri ya pak",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18045962203951644",
+      "created_at": "1728323428",
+      "username": "lazuardynilhami",
+      "text": "Prambanan menyala Om Pram @pramonoanungw . Menang 1 putaran .. 😊🙏",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18064277653577955",
+      "created_at": "1728323910",
+      "username": "timequayle1_",
+      "text": "keren sekali pakk bikin jakarta makin mnyala🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18004943795485880",
+      "created_at": "1728328764",
+      "username": "halloanisss",
+      "text": "ternyata pak Pram kaya aku ya, dikit2 nyatett",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18031399916350897",
+      "created_at": "1728334573",
+      "username": "rezaaditya2694",
+      "text": "👏👏👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18019212500295335",
+      "created_at": "1728339005",
+      "username": "dedi.arent",
+      "text": "❤️❤️🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 5,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18011091215393332",
+      "created_at": "1728341449",
+      "username": "dewanti_rumpoko",
+      "text": "Semangat Bapak…. !!!",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18458650558034361",
+      "created_at": "1728341524",
+      "username": "nairazaraa",
+      "text": "Yok pak pastii menang. Idaman bgtt pemimpin kaya gini🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17846994729318180",
+      "created_at": "1728301995",
+      "username": "danielhadi",
+      "text": "secara aturan debat, hal tersebut boleh dilakukan. Bahwa peserta debat diperbolehkan membawa notes disemua segmen debat termasuk malakukan aktifitas menulis",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17884009041121369",
+      "created_at": "1728302076",
+      "username": "pinujilestari",
+      "text": "Sukses selalu pak dan semoga menang",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18043131395085270",
+      "created_at": "1728302140",
+      "username": "najuwita",
+      "text": "Keluarga adem ayem tentrem😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18034012454224507",
+      "created_at": "1728302343",
+      "username": "giskaptri0",
+      "text": "sehat selalu pak pram",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18040515595919426",
+      "created_at": "1728302507",
+      "username": "aurorraalesha",
+      "text": "Hal hal kecil aja beliau perhatikan apa lagi hal yang menyangkut kemajuan Jakarta ya kaan 👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17884176780105144",
+      "created_at": "1728302549",
+      "username": "rapali_zz",
+      "text": "Sehat ² terus keluarga pak pram🙌😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18439534630065630",
+      "created_at": "1728302740",
+      "username": "arfangalih",
+      "text": "sehat sehat pak pram",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17857714284216682",
+      "created_at": "1728303297",
+      "username": "pudinganika",
+      "text": "Mas Pram kemarin acara debat kurang senyum",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18105109624438533",
+      "created_at": "1728303418",
+      "username": "raka_hanan",
+      "text": "Pak pram positif vibes bgt ya 😍 masyaallah",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18067702438716206",
+      "created_at": "1728303679",
+      "username": "setyaningsihmoelyadi",
+      "text": "Seneng liat mici jidi....❤️❤️😍😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17940734549877822",
+      "created_at": "1728303769",
+      "username": "dsfnsukabumi",
+      "text": "❤️❤️❤️❤️❤️❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 6,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17928208844949414",
+      "created_at": "1728303902",
+      "username": "sandy_rico_03",
+      "text": "👏👏👏🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18104755612442517",
+      "created_at": "1728303915",
+      "username": "pramonoanungw",
+      "text": "@roosfeary Jidi = GD = Grand Dad = Kakek 😆",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18048075757990650",
+      "created_at": "1728303939",
+      "username": "anny_pontje",
+      "text": "Dukung PAKAR no 3",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18077865247545155",
+      "created_at": "1728304047",
+      "username": "abdulsyukur4455",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18044278676019184",
+      "created_at": "1728304164",
+      "username": "budiyanggakusumah",
+      "text": "😮😂😂😂😂😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17940479036907551",
+      "created_at": "1728304288",
+      "username": "roosfeary",
+      "text": "@pramonoanungw oala.... Eyang Kakung 😂 Menyala Mas Pram. Bismillah menang",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18033639575193904",
+      "created_at": "1728304336",
+      "username": "nty.ptr",
+      "text": "bnr bgt,setuju bgt bisa buat contoh juga buat masyarakat",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17981832752741683",
+      "created_at": "1728304392",
+      "username": "faizal_ptr23",
+      "text": "Mantap pak bisa buat contoh masyarakat🔥👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18060400462619805",
+      "created_at": "1728304470",
+      "username": "bobbygea_",
+      "text": "Ini baru Pemimpin🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18045957016991716",
+      "created_at": "1728304679",
+      "username": "evisakebil",
+      "text": "@roosfeary jidd bahasa arab arti kakek",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18069280231559227",
+      "created_at": "1728304691",
+      "username": "saraswati1611",
+      "text": "Oret2an dokter juga kalah nih kayane😂😂😂😂😂, isinya leb👏👏👏👏🔥🔥🔥🔥ih mantebbb",
+      "sentiment_label": "positive",
+      "sentiment_score": 8,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18046993741818872",
+      "created_at": "1728304758",
+      "username": "hanestiawan",
+      "text": "Sanaya mana pak @pramonoanungw",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18034796081194015",
+      "created_at": "1728304933",
+      "username": "xzydiayxz",
+      "text": "Dukung banget kebiasaan pak pram yang suka mencatat, karna sekarang sudah jarang ada orang yang masih suka mencatat 👍👍🤩🤩🥰",
+      "sentiment_label": "positive",
+      "sentiment_score": 5,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18132958576366536",
+      "created_at": "1728304933",
+      "username": "firaprihatin",
+      "text": "Sehat dan sukses selalu pak pram❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17852920992295585",
+      "created_at": "1728304937",
+      "username": "felly192",
+      "text": "Insya Allah Terpilih Bapak 🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18049769308820138",
+      "created_at": "1728305120",
+      "username": "bagosssss._",
+      "text": "pemimpin yang kerenn ini👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18024975854167383",
+      "created_at": "1728305380",
+      "username": "roosfeary",
+      "text": "@evisakebil paham 👍",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18244953007274486",
+      "created_at": "1728305432",
+      "username": "titikusumaw",
+      "text": "Mantap nih pak pram .. kompak selallu 🔥❤️👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17970525464789337",
+      "created_at": "1728305560",
+      "username": "mahes6919",
+      "text": "Aah gemesh banget sama kehangatan keluarga Pak Pram. Banyakin konten keluarga jg ya pak. Suka bangeett❤️❤️❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17894043600090119",
+      "created_at": "1728305621",
+      "username": "rara6_252",
+      "text": "jakarta menyala bersama paslon 3 😍🔥👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18142883491353463",
+      "created_at": "1728305723",
+      "username": "hanny_muchtar",
+      "text": "Lucu banget bu Hani yang sangat baik dan apa adanya dengan Pak Pram dan Mbak Dhilla apa adanya karena kejujuran segalanya biar JAKARTA MENYALA ❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18130210480371048",
+      "created_at": "1728306030",
+      "username": "meitaluciani_",
+      "text": "Menyalaaaaa mas Pram 👏🔥🔥 bismillah for DKI-1 🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18437777716066505",
+      "created_at": "1728306093",
+      "username": "iamriqzayaang",
+      "text": "Jidi makin KERENNNN ❤️❤️❤️❤️❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 5,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17923166345970481",
+      "created_at": "1728306280",
+      "username": "fafaa1606",
+      "text": "Sehat sekeluarga ya pak pram😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18113788108412809",
+      "created_at": "1728306308",
+      "username": "xtiaa_aini",
+      "text": "menyalaaa nihh pak sampean emang orang hebatt👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18050402989904202",
+      "created_at": "1728306326",
+      "username": "frisabilana_",
+      "text": "tulisannnya kayak dokter jadi diomellin samaaa istriinya😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18042609143029044",
+      "created_at": "1728306343",
+      "username": "yucii_maria",
+      "text": "keren sih pak Pram 🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18155724490325508",
+      "created_at": "1728306473",
+      "username": "xxiindrasw_11",
+      "text": "keren no gimmick² no settingan Menyala keluarga Pak Pram 🔥 sukses",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17945573381762102",
+      "created_at": "1728306643",
+      "username": "toufanas",
+      "text": "👏👏🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17842639206330076",
+      "created_at": "1728306802",
+      "username": "palopophyte",
+      "text": "pemimpin yang bijak nihhh",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18012505910360883",
+      "created_at": "1728306806",
+      "username": "lia88.4",
+      "text": "tulisan dokter ga tu pak, dimarai istrinya lucu bgt",
+      "sentiment_label": "negative",
+      "sentiment_score": -1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18274745656245632",
+      "created_at": "1728306852",
+      "username": "desyna462",
+      "text": "Punya pemimpin kaya pak pram asik nih",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17848600191280642",
+      "created_at": "1728307015",
+      "username": "anndselv",
+      "text": "yakin si, punya pemimpin ky pak pram bakalan asik bangettt😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18030518879346445",
+      "created_at": "1728307204",
+      "username": "ini.taputri",
+      "text": "tetep pada kepribadian sendiri dan jangan hilangkan kebiasaan baik ya pak",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18041424767491702",
+      "created_at": "1728307398",
+      "username": "yuserrnaame",
+      "text": "Kerennn banget pak",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18021960932234228",
+      "created_at": "1728307466",
+      "username": "dhiniekahawaa_",
+      "text": "dimarahinn sama istri gak tuhh wkwkwk😅😂",
+      "sentiment_label": "negative",
+      "sentiment_score": -1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18030393989461007",
+      "created_at": "1728307488",
+      "username": "bilalbagas16",
+      "text": "Semangat pak untuk nyalakan jakarta😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18057346402829769",
+      "created_at": "1728307602",
+      "username": "vnsaptriiiiiiiiii",
+      "text": "pemimpin yang asik nih",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17843600781330306",
+      "created_at": "1728300040",
+      "username": "theolilik8",
+      "text": "👌👌👌",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18025099412170067",
+      "created_at": "1728300077",
+      "username": "vivivirdiana",
+      "text": "🔥🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18047660761802815",
+      "created_at": "1728300096",
+      "username": "lukmanhsaifuddin",
+      "text": "Menyala teruuuusss...Kangmas-ku.. 🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18069346564612169",
+      "created_at": "1728300131",
+      "username": "mikhaylamikhayla.79",
+      "text": "Sehat dan sukses selalu bapak ibu 🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18116515141394479",
+      "created_at": "1728300167",
+      "username": "ketutshanti",
+      "text": "Sukses Mas Pram....🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18047946694815259",
+      "created_at": "1728300240",
+      "username": "hikmahikma85",
+      "text": "❤️🔥❤️🔥❤️🔥❤️🔥 istrinya Bapak @pramonoanungw ayu banget, ngomong nya juga lembut banget, kelihatan banget sayang dan hormat sama Bapak. Salam hormat dari Palembang Untuk Ibu dan Bapak @pramonoanungw",
+      "sentiment_label": "positive",
+      "sentiment_score": 8,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18004011842493367",
+      "created_at": "1728300256",
+      "username": "sugi.lanus",
+      "text": "Jidi keren sekali... 🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18006962168466311",
+      "created_at": "1728300265",
+      "username": "genpatron",
+      "text": "God bless you, Pak Pram 👏👏👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17970948425792551",
+      "created_at": "1728300280",
+      "username": "worodiya",
+      "text": "Ini betul2 klrg yg bukan setingan,setiap di video Mba Mici selalu dgn daster nya sederhana halus & asli cerminan ibu RT yg sejati..love love..Mas Pram & Mba Mici❤️❤️❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18057801940763955",
+      "created_at": "1728300328",
+      "username": "latif87.bf",
+      "text": "😁😁😁",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18092744695477358",
+      "created_at": "1728300337",
+      "username": "wahyuniastina.07",
+      "text": "🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18022593866580260",
+      "created_at": "1728300342",
+      "username": "felixgideon88",
+      "text": "Kader terbaik selama ini",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18274590946243858",
+      "created_at": "1728300401",
+      "username": "eko.pasetyo",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18040999904316792",
+      "created_at": "1728300438",
+      "username": "iam_ekosulis_evs",
+      "text": "MasyaAlloh kalau Panggil Kakek Jidi berarti Nenek Manggil nya Jadda❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18042309004895790",
+      "created_at": "1728300454",
+      "username": "yogaeskn",
+      "text": "🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18049930189822536",
+      "created_at": "1728300853",
+      "username": "dhinimudiani",
+      "text": "M3nyala Mas @pramonoanungw 🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18050106088901529",
+      "created_at": "1728300916",
+      "username": "harsri_wied",
+      "text": "@worodiya cucunya pol nggemesi pinter banget 😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17845593033321957",
+      "created_at": "1728300990",
+      "username": "ryan.badawi",
+      "text": "Bu hani ternyata lucu juga😂",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17996056625691767",
+      "created_at": "1728301401",
+      "username": "sprmdhia_",
+      "text": "😂🙌 mantappp",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18351477004187908",
+      "created_at": "1728301455",
+      "username": "gatutiwuk",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17931045221937342",
+      "created_at": "1728301462",
+      "username": "queen_sera_sera22",
+      "text": "Semoga jadi pemimpin hebat dan rendah hati ya pak",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18137635570361020",
+      "created_at": "1728301474",
+      "username": "tukangloak_jakarta",
+      "text": "🔥🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18463332247058654",
+      "created_at": "1728301525",
+      "username": "nia10858",
+      "text": "gaspol terus pak pram😁,siap dukung nomer 3🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18421732882076809",
+      "created_at": "1728301643",
+      "username": "chika.3948",
+      "text": "Mantap pak semoga bisa menjadi pemimpin yang baik❤️",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18184732912306892",
+      "created_at": "1728301652",
+      "username": "_.ndadnd",
+      "text": "keren sekali pak jangan lupa untuk mendukung 03 untuk jakarta menyalaa🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17860909611194064",
+      "created_at": "1728301674",
+      "username": "alliyaadlan",
+      "text": "pls sampe nanti konten ini ttp ada😂 lucu bgt pola komunikasi keluarga cemara",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17907033954019158",
+      "created_at": "1728301709",
+      "username": "riri.arnisa",
+      "text": "Saya bukan warga DKI ,Bismillah Menang 🤟🤟🤟",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18010901993396939",
+      "created_at": "1728301716",
+      "username": "atiimson",
+      "text": "Bismillah Bp Pramono di pilih Allah swt menjadi gupenur Jakarta",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "17938153325794425",
+      "created_at": "1728301795",
+      "username": "roosfeary",
+      "text": "Keren inih. Video IG spt ini. Ngomong2 Jidi itu artinya apa ? Jadi penasaran😍😍😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 4,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18057215911774647",
+      "created_at": "1728301957",
+      "username": "m4rlboroice_",
+      "text": "kebiasaan baik nih pak jgn dihilangkan",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0iQeRSKe6_Comments.csv"
+    },
+    {
+      "comment_id": "18033494852468284",
+      "created_at": "1728309509",
+      "username": "posperasimalungun",
+      "text": "Mantap 🤟🤟",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18030631364339913",
+      "created_at": "1728310001",
+      "username": "yusniamegaaa",
+      "text": "Gaskannn semoga program2nya bisa terlaksana 👏👏",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "17969649140789913",
+      "created_at": "1728310024",
+      "username": "rheiya_07",
+      "text": "Nomor 3 gaspol",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18287059048228136",
+      "created_at": "1728310675",
+      "username": "lifammoryy",
+      "text": "kalo jakarta bisa ga macet ya jos pak🔥",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18054746731890618",
+      "created_at": "1728311533",
+      "username": "d_uain",
+      "text": "Semoga bisa mengurangi kemacetan di Jakarta",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18465283153013051",
+      "created_at": "1728311718",
+      "username": "masykuur",
+      "text": "❤️🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18149812159336814",
+      "created_at": "1728312848",
+      "username": "rukminiadis",
+      "text": "Aku seneng banget dengan gagasan pk Pram di debat pertama , teruma mengenai Lansia di gratiskan naik MRT,LRT dan KA , pokoknya Aku pilih pk Pram Rano ...🤟🏻🤟🏻🤟🏻",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18122157535376882",
+      "created_at": "1728313345",
+      "username": "ma127___",
+      "text": "setuju bangett sih inii",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "17949133337748328",
+      "created_at": "1728314280",
+      "username": "ch444.444",
+      "text": "semoga selalu dimudahkan urusanya pak😍",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "17970711713790887",
+      "created_at": "1728314310",
+      "username": "secccctss_",
+      "text": "Setujuu sih kalo jakarta bisa tanpa macet pasti bakalan surga duniaa bangett😍 semoga rencananya bisa langsung digass yaa pakkk🤟🏻",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18064170052650949",
+      "created_at": "1728314372",
+      "username": "fikar_zhegrova",
+      "text": "Menyala Jakarta ku Bersama Pak Pram 🔥🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 3,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18022845998398860",
+      "created_at": "1728315900",
+      "username": "arifyepe_",
+      "text": "03 mantap🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18079843528481529",
+      "created_at": "1728315921",
+      "username": "panduway",
+      "text": "Aamiin",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "17900874173973808",
+      "created_at": "1728316263",
+      "username": "rintaulinnikmah",
+      "text": "Bismillah menang ya pak 👌👌👌",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18044766272050004",
+      "created_at": "1728316925",
+      "username": "evrelliawulan",
+      "text": "Pokoknya semangat terus pak Pramono dan semoga menang nih",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18000492041674334",
+      "created_at": "1728317386",
+      "username": "nafreelancebisnis",
+      "text": "Bismillahh semoga menangg pakk dan semoga programm buat jakarta bisa berjalan dengan lancarr🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18339810058125691",
+      "created_at": "1728320646",
+      "username": "jovia.nm",
+      "text": "Semoga segera direalisasikan ya pak",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18050004193754424",
+      "created_at": "1728322288",
+      "username": "deeby_o2",
+      "text": "Semoga program2nyaaa bisa terlaksaana ya pak",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18077451838491690",
+      "created_at": "1728323653",
+      "username": "timequayle1_",
+      "text": "jakarta menyala bersama nomer 3🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 2,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "17919563774987597",
+      "created_at": "1728324744",
+      "username": "naufal_rmdhan12",
+      "text": "jakarta tanpa macet udah surga dunia sih",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "17988411950723249",
+      "created_at": "1728325239",
+      "username": "bayu_rahmatullah86",
+      "text": "Gass lah pak... Biar mengurangi kemacetan...",
+      "sentiment_label": "neutral",
+      "sentiment_score": 0,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    },
+    {
+      "comment_id": "18004181888662363",
+      "created_at": "1728328692",
+      "username": "halloanisss",
+      "text": "semoga rencananya bisa digas langsung pas pak pram udah menanggg!🔥",
+      "sentiment_label": "positive",
+      "sentiment_score": 1,
+      "post_date": "DA0NJ36SedH_Comments.csv"
+    }
+  ]
 }
