@@ -134,6 +134,26 @@ npm run dev
 - Set **Root Directory** ke `web-nextjs`.
 - Deploy (default Next.js build).
 
+## Opsi Paling Stabil untuk Vercel: Static Site
+
+Versi static site siap deploy ada di folder `web-static/` (tanpa Node build/runtime).
+
+Kelebihan:
+1. Tidak bergantung runtime Python/Streamlit.
+2. Tidak perlu build command.
+3. Cocok untuk import langsung ke Vercel.
+
+Alur data tetap sama:
+1. Jalankan ETL Python untuk menghasilkan `data/processed/comments_normalized.csv`.
+2. Data analitik frontend disediakan lewat `web-static/data/analytics.json`.
+
+Deploy di Vercel:
+1. Import repository.
+2. Set **Root Directory** ke `web-static`.
+3. Build Command: kosongkan.
+4. Output Directory: kosongkan (default).
+5. Deploy.
+
 ## Lisensi
 
 Untuk kebutuhan akademik/UTS.
