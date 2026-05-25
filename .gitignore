@@ -1,0 +1,38 @@
+﻿# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+streamlit.out.log
+streamlit.err.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data artifacts (can be regenerated)
+data/db/*.db
+data/processed/*.csv
+
+# Keep raw directory structure but ignore raw dumps by default
+data/raw/*
+!data/raw/.gitkeep
+
+# Python packaging
+pip-wheel-metadata/
+*.egg-info/
+
+# Next.js
+web-nextjs/node_modules
+web-nextjs/.next
+web-nextjs/.vercel

@@ -1,0 +1,93 @@
+﻿:root {
+  --bg-1: #070b14;
+  --bg-2: #111827;
+  --card: #0f172a;
+  --muted: #9ca3af;
+  --text: #f3f4f6;
+  --accent: #d4af37;
+  --positive: #22c55e;
+  --neutral: #94a3b8;
+  --negative: #ef4444;
+}
+
+* { box-sizing: border-box; }
+html, body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle at 0% 0%, #1f2937 0%, #0b1220 35%, #070b14 100%);
+  color: var(--text);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a { color: inherit; text-decoration: none; }
+
+.container {
+  width: min(1200px, 94vw);
+  margin: 0 auto;
+  padding: 24px 0 48px;
+}
+
+.hero {
+  background: linear-gradient(140deg, rgba(15,23,42,0.95), rgba(17,24,39,0.9));
+  border: 1px solid rgba(212,175,55,0.28);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 12px 34px rgba(0,0,0,0.28);
+}
+
+.hero h1 { margin: 0 0 8px; font-size: 1.8rem; }
+.hero p { margin: 0; color: var(--muted); }
+
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.card {
+  background: linear-gradient(160deg, rgba(15,23,42,0.92), rgba(17,24,39,0.88));
+  border: 1px solid rgba(212,175,55,0.2);
+  border-radius: 14px;
+  padding: 14px;
+}
+
+.metric-label { color: var(--muted); font-size: 0.9rem; }
+.metric-value { margin-top: 6px; font-size: 1.5rem; font-weight: 700; }
+
+.section-title { margin: 24px 0 10px; font-size: 1.15rem; }
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.table-wrap { overflow: auto; max-height: 460px; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid rgba(148,163,184,0.15);
+  text-align: left;
+  vertical-align: top;
+}
+th { color: var(--muted); font-weight: 600; }
+
+.badge { padding: 2px 8px; border-radius: 999px; font-size: 0.78rem; font-weight: 700; }
+.badge.positive { background: rgba(34,197,94,0.18); color: #86efac; }
+.badge.neutral { background: rgba(148,163,184,0.2); color: #cbd5e1; }
+.badge.negative { background: rgba(239,68,68,0.2); color: #fca5a5; }
+
+@media (max-width: 960px) {
+  .grid-4 { grid-template-columns: 1fr 1fr; }
+  .grid-2 { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 560px) {
+  .grid-4 { grid-template-columns: 1fr; }
+}

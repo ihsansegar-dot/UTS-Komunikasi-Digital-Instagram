@@ -1,0 +1,16 @@
+﻿{
+  "summary": {
+    "total_comments": 0,
+    "average_score": 0,
+    "unique_users": 0,
+    "total_post_dates": 0
+  },
+  "sentiment_breakdown": [
+    {"name": "positive", "value": 0},
+    {"name": "neutral", "value": 0},
+    {"name": "negative", "value": 0}
+  ],
+  "comments_by_post_date": [],
+  "top_words": [],
+  "latest_comments": []
+}
