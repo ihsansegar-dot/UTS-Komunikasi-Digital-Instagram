@@ -1,5 +1,5 @@
-﻿import { readAnalyticsData } from "@/lib/data";
-import { PostDateBar, SentimentPie } from "@/components/charts";
+import { readAnalyticsData } from "../lib/data";
+import { PostDateBar, SentimentPie } from "../components/charts";
 
 export default function HomePage() {
   const analytics = readAnalyticsData();

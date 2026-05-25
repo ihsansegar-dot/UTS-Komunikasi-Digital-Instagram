@@ -1,4 +1,4 @@
-﻿import fs from "node:fs";
+import fs from "node:fs";
 import path from "node:path";
 
 const inputCsv = path.join(process.cwd(), "..", "data", "processed", "comments_normalized.csv");

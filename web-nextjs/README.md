@@ -1,4 +1,4 @@
-﻿# Next.js Frontend (Native Vercel)
+# Next.js Frontend (Native Vercel)
 
 Frontend ringan berbasis Next.js untuk visualisasi analitik sentimen Pilkada DKI 2024.
 
